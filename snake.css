@@ -1,0 +1,30 @@
+body {
+    font-family: 'courier new', courier, monospace;
+    text-align: center;
+    background: #060f08;
+    color: #a0f080;
+}
+
+h1 {
+    letter-spacing: 3px;
+    font-size: 22px;
+    margin: 20px 0 10px;
+}
+
+#board {
+    border: 1.5px solid #2a5c3a;
+    border-radius: 10px;
+    box-shadow: 0 0 32px #0d3320;
+}
+body{
+    font-family:'courier new',courier,monospace;
+    text-align:center;
+    margin:0;
+    min-height:100vh;
+
+    background:linear-gradient(135deg,#0f172a,#1e293b,#334155);
+}
+#board{
+    margin-top:20px;
+    border:3px solid #333;
+}
